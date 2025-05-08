@@ -1,5 +1,6 @@
 # 🌍 GLOBAL STARTUP ECOSYSTEM
 
+
 ##### Funding & Growth Analysis with Machine Learning Insights
 
 ##### This project analyzes startup funding trends worldwide using data cleaning, exploratory analysis, interactive dashboards, and predictive modeling. Built with Python and Power BI, it provides insights into the global startup landscape and predicts Series A funding success.
@@ -48,5 +49,6 @@
 - Time-series forecasting: Predict funding trends by country
 
 - Clustering: Group startups by funding, stage, and location
+  
 
 - Investor analysis: Identify top VC players by portfolio performance
