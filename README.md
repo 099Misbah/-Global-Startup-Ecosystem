@@ -37,7 +37,7 @@
 
     Random Forest slightly outperformed Logistic Regression
 
-#### Tech Stack
+#### 📌 Tech Stack
 - Python: Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly
 
 - Power BI: Dashboard development, data modeling, visualization
