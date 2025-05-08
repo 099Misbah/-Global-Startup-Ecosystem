@@ -1,7 +1,7 @@
 # 🌍 GLOBAL STARTUP ECOSYSTEM
 ## 📷 Dashboard Preview
 
-👉 [View Full Dashboard (PDF)](./dashboard.pdf)
+👉 [View Full Dashboard (PDF)](./Startup Analysis.pdf)
 
 
 ##### Funding & Growth Analysis with Machine Learning Insights
