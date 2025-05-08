@@ -4,7 +4,7 @@
 
 ##### This project analyzes startup funding trends worldwide using data cleaning, exploratory analysis, interactive dashboards, and predictive modeling. Built with Python and Power BI, it provides insights into the global startup landscape and predicts Series A funding success.
 
-#### Project Highlights
+#### 📌 Project Highlights
 
 - Cleaned and processed complex startup funding datasets (missing values, inconsistent country names, etc.)
 
@@ -23,7 +23,7 @@
 - Conducted in-depth EDA to uncover patterns across regions, industries, and funding rounds
 
 
-#### Machine Learning Component
+#### 📌 Machine Learning Component
 
 - Trained and evaluated models to predict whether a startup would raise Series A funding based on seed-stage features.
 
@@ -32,6 +32,21 @@
   Random Forest Classifier – Accuracy: 96.5%
 
 - Evaluation: High precision, recall, and F1-scores (0.96+)
-    Strong confusion matrix performance on both classes
+
+   Strong confusion matrix performance on both classes
+
     Random Forest slightly outperformed Logistic Regression
 
+#### Tech Stack
+- Python: Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly
+
+- Power BI: Dashboard development, data modeling, visualization
+
+- ML Concepts: Supervised learning, classification, evaluation metrics
+
+#### 📌 Future Enhancements
+- Time-series forecasting: Predict funding trends by country
+
+- Clustering: Group startups by funding, stage, and location
+
+- Investor analysis: Identify top VC players by portfolio performance
