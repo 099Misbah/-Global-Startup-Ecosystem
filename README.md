@@ -4,20 +4,21 @@
 
 ##### This project analyzes startup funding trends worldwide using data cleaning, exploratory analysis, interactive dashboards, and predictive modeling. Built with Python and Power BI, it provides insights into the global startup landscape and predicts Series A funding success.
 
-Project Highlights
-Cleaned and processed complex startup funding datasets (missing values, inconsistent country names, etc.)
+#### Project Highlights
 
-Built an interactive Power BI dashboard featuring:
+- Cleaned and processed complex startup funding datasets (missing values, inconsistent country names, etc.)
 
-Global funding trends over time
+- Built an interactive Power BI dashboard featuring:
 
-Top markets and industries by total funding
+    - Global funding trends over time
 
-Geographic startup distribution (map visualizations)
+    - Top markets and industries by total funding
 
-Debt financing breakdown by industry
+    - Geographic startup distribution (map visualizations)
 
-Filters by country, year, and market
+    - Debt financing breakdown by industry
 
-Conducted in-depth EDA to uncover patterns across regions, industries, and funding rounds
+    - Filters by country, year, and market
+
+- Conducted in-depth EDA to uncover patterns across regions, industries, and funding rounds
 
