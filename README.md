@@ -22,3 +22,16 @@
 
 - Conducted in-depth EDA to uncover patterns across regions, industries, and funding rounds
 
+
+#### Machine Learning Component
+
+- Trained and evaluated models to predict whether a startup would raise Series A funding based on seed-stage features.
+
+- Models Used:
+  Logistic Regression – Accuracy: 95.8%
+  Random Forest Classifier – Accuracy: 96.5%
+
+- Evaluation: High precision, recall, and F1-scores (0.96+)
+    Strong confusion matrix performance on both classes
+    Random Forest slightly outperformed Logistic Regression
+
