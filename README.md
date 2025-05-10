@@ -1,5 +1,10 @@
 # 🌍 GLOBAL STARTUP ECOSYSTEM
-<img width="500" alt="Screenshot 2025-05-09 at 7 18 59 PM" src="https://github.com/user-attachments/assets/adf4e8fd-cd61-45dc-bc3b-7892fb84bd5e" />
+<img 
+  width="500" 
+  alt="Screenshot 2025-05-09 at 7 18 59 PM" 
+  src="https://github.com/user-attachments/assets/adf4e8fd-cd61-45dc-bc3b-7892fb84bd5e" 
+  style="display: block; margin: 0 auto;" 
+/>
 
 ##### Funding & Growth Analysis with Machine Learning Insights
 
